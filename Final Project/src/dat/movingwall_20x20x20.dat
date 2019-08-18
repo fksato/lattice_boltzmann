@@ -1,0 +1,11 @@
+
+geometry		geo/square_20x20x20.list
+x_proc			2
+y_proc			1
+z_proc			1
+x_cells			20
+y_cells			20
+z_cells			20
+tau				1.4
+time_steps		200
+vis_t			10

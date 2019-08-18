@@ -1,0 +1,10 @@
+geometry		geo/step_over50x100x50.list
+x_proc			2
+y_proc			1
+z_proc			1
+x_cells			50
+y_cells			100
+z_cells			50
+tau				0.6
+time_steps		10000
+vis_t			100
